@@ -1,0 +1,7 @@
+{
+  "name": "PreBuild AI",
+  "description": "A high-fidelity startup idea evaluation platform powered by Google Gemini. Get deep-dive analysis, category scores, and an automated Go/Pivot/No-Go decision based on venture capital frameworks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
